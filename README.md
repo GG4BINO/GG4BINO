@@ -7,7 +7,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/GG4BINO/GG4BINO/output/snake.svg" alt="Snake animation" />
-
-###
